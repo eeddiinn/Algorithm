@@ -1,0 +1,5 @@
+-- 코드를 입력하세요
+SELECT ANIMAL_TYPE, COUNT(*) as count
+FROM ANIMAL_INS
+GROUP by ANIMAL_TYPE
+ORDER bY 1
